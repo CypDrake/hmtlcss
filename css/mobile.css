@@ -1,0 +1,14 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    overflow: hidden;
+    height: 100px;
+}
+
+.courses .course {
+    flex-direction: column;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+
+}
